@@ -115,7 +115,7 @@ This project was created using the following technologies.
  ##  Screenshots 
  
 
-![1](./images/home.png))
+![1](./images/home.png)
 ---- -
 ![2](./images/account.png)
 --- - 
