@@ -129,6 +129,7 @@ This project was created using the following technologies.
 --- - 
   <img src="./images/blog1.png" alt="home">
 --- - 
+
 ## Author
 - Rosso: [Front-end]
 - Vijayan: [Full-Stack Developer]
