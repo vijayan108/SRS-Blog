@@ -115,21 +115,19 @@ This project was created using the following technologies.
  ##  Screenshots 
  
 
-![1](./images/home.png)
+<img src="./images/home.png" alt="home">
 ---- -
-![2](./images/account.png)
+ <img src="./images/account.png" alt="home">
 --- - 
-![3](./images/register.png)
+<img src="./images/register.png" alt="home">
 --- - 
-![4](./images/login.png)
+ <img src="./images/login.png" alt="home">
 --- - 
-![5](https://user-images.githubusercontent.com/111676859/226197303-5d8a1a39-07f7-409f-8614-12d0ca0b2836.png)
+ <img src="./images/blog.png" alt="home">
 --- - 
-![6](./images/blog.png)
+ <img src="./images/chatbot.png" alt="home">
 --- - 
-![7](./images/chatbot.png)
---- - 
-![8](./images/blog1.png)
+  <img src="./images/blog1.png" alt="home">
 --- - 
 ## Author
 - Rosso: [Front-end]
