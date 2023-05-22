@@ -112,7 +112,7 @@ This project was created using the following technologies.
 
  - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
  
- ##  Screenshots 
+ <!-- ##  Screenshots 
  
 
 ![home](https://github.com/vijayan108/SRS-Blog/tree/main/images/home.png?raw=true)
@@ -130,9 +130,10 @@ This project was created using the following technologies.
 ----- --
 ![home](https://github.com/vijayan108/SRS-Blog/tree/main/images/blog1.png?raw=true)
 ----- --
+-->
 ## Author
 - Rosso: [Front-end]
-- Vijayan: [Full-Stack Developer]
+- Vijayan: [Full-Stack Developer] 
 
 ## License
 
