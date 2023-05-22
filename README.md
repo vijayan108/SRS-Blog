@@ -115,21 +115,21 @@ This project was created using the following technologies.
  ##  Screenshots 
  
 
-<img src="./images/home.png" alt="home">
----- -
- <img src="./images/account.png" alt="home">
---- - 
-<img src="./images/register.png" alt="home">
---- - 
- <img src="./images/login.png" alt="home">
---- - 
- <img src="./images/blog.png" alt="home">
---- - 
- <img src="./images/chatbot.png" alt="home">
---- - 
-  <img src="./images/blog1.png" alt="home">
---- - 
+![home](https://github.com/vijayan108/SRS-Blog/tree/main/images/home.png?raw=true)
+----- --
+![home](https://github.com/vijayan108/SRS-Blog/tree/main/images/register.png?raw=true)
 
+----- --
+![home](https://github.com/vijayan108/SRS-Blog/tree/main/images/login.png?raw=true)
+----- --
+![home](https://github.com/vijayan108/SRS-Blog/tree/main/images/account.png?raw=true)
+----- --
+![home](https://github.com/vijayan108/SRS-Blog/tree/main/images/blog.png?raw=true)
+----- --
+![home](https://github.com/vijayan108/SRS-Blog/tree/main/images/chatbot.png?raw=true)
+----- --
+![home](https://github.com/vijayan108/SRS-Blog/tree/main/images/blog1.png?raw=true)
+----- --
 ## Author
 - Rosso: [Front-end]
 - Vijayan: [Full-Stack Developer]
